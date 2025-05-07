@@ -3,6 +3,6 @@
 # A description of what this class does
 #
 # @example
-#   include hello_world
-class hello_world {
+#   include hello_world::website
+class hello_world::website {
 }
